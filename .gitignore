@@ -1,0 +1,32 @@
+# IDEs
+.vscode/
+.cursor/
+.claude/
+
+# Build directories
+build/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Binaries
+sender
+receiver
+reciever
+map_generator
+*.exe
+*.out
+*.o
+*.a
+*.so
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,17 @@
+map_load_time:
+  sec: 3175
+  nanosec: 600000000
+resolution: 0.05000000074505806
+width: 152
+height: 121
+origin:
+  position:
+    x: -1.2238893508911133
+    y: -2.380027008056641
+    z: 0.0
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
